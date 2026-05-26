@@ -275,7 +275,11 @@ nav a:hover { color: var(--blue); background: var(--gray-light); }
   transition: var(--transition);
 }
 .mobile-menu a:hover { color: var(--blue); padding-left: 8px; }
-.mobile-menu .btn-whatsapp { margin-top: 24px; justify-content: center; }
+.mobile-menu .btn-whatsapp { 
+  margin-top: 24px; 
+  justify-content: center; 
+  padding: 14px 5px;
+}
 
 /* ── HERO ── */
 .hero {
