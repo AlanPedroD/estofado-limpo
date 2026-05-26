@@ -945,3 +945,10 @@ footer {
   .contact-form { padding: 28px 20px; }
   .whatsapp-float { bottom: 16px; right: 16px; }
 }
+
+@media(max-width: 442px){
+  .hero-badge{
+    font-size: 0.7rem;
+  }
+  
+}
